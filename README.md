@@ -21,7 +21,9 @@ I'm eager to collaborate on simple projects to expand my knowledge and gain prac
 
 #### Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username) #### Pronouns
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username) 
+
+#### Pronouns
 
 He/Him
 
